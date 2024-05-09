@@ -7,3 +7,4 @@ Files:
  - Final_Paper.pdf: Final report describing our findings and results
  - Final_Presentation_Slides.pdf: The slides we used for our posterboard in class
  - Proposal.pdf: An earlier assignment for documentation purposes
+ - Poster_Image.jpg: An image of the poster we presented in class
