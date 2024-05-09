@@ -1,1 +1,1 @@
-# cmsc421-project
+# Parking Lot Simulator
